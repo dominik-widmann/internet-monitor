@@ -1,2 +1,2 @@
 # internet-monitor
-Logs reachability of google server
+Logs reachability of the google server.
